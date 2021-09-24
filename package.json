@@ -1,0 +1,13 @@
+{
+  "name": "price-monitor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.7"
+  }
+}
